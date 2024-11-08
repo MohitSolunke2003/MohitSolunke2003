@@ -72,7 +72,7 @@
 </div>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mohitsolunke&show_icons=true&locale=en" alt="mohitsolunke&theme=github_dark" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitsolunke&show_icons=true&locale=en&layout=compact" alt="mohitsolunke&theme=github_dark" /></p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitsolunke&show_icons=true&locale=en&layout=compact" alt="mohitsolunke&theme=github_dark" /></p> 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitsolunke&%22%20alt=%22mohitsolunke%22&theme=github_dark" /></p>
 
 
