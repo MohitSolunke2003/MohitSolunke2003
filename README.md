@@ -66,7 +66,7 @@
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohitSolunke&theme=github_dark"/>
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohitSolunke&theme=github_dark" />
 </div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitsolunke&show_icons=true&locale=en" alt="mohitsolunke" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mohitsolunke&show_icons=true&locale=en" alt="mohitsolunke" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitsolunke&show_icons=true&locale=en&layout=compact" alt="mohitsolunke" /></p> 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitsolunke&" alt="mohitsolunke" /></p>
