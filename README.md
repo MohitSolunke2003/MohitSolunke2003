@@ -1,4 +1,7 @@
 <div align="center"> 
+
+<h1 align="center">Hello, 👋 I'am Mohit Solunke</h1>
+<h3 align="center" color =red >I am a TECH enthusiast from India</h3>
   
 <!--   <h2>🐍 Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
